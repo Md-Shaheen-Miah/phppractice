@@ -1,0 +1,40 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    
+    text-align: left;
+    padding: 12px;
+  }
+  td{
+    padding:12px ;
+  }
+  tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+
+ .active{
+    background-color:rgb(80, 243, 80);
+   display: inline;
+   padding: 4px;
+   color: #ffffff;
+   font-weight: bold;
+  border-radius: 5px;
+ 
+ 
+ }
+.user{
+    width: 100%;
+    height: 80px;
+}
+
+.user i{
+    margin-top: 25px;
+}
+
+
+   
+
